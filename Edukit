@@ -2,7 +2,9 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">.
+<meta name="description" content="Kit de Informática 2026 para estudiantes. Guías de HTML, CSS, JavaScript y MySQL con ejercicios y plantillas listas para usar.">
+<meta name="keywords" content="kit informatica, estudiar informatica, HTML CSS, programacion dominicana, bachillerato tecnico informatica">
     <title>EduKit — Explora el Futuro</title>
     <style>
         /* --- Reset y Tipografía --- */
