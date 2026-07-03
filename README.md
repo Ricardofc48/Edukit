@@ -1,1 +1,1 @@
-# kit-informatica
+# Edukit
